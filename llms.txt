@@ -1,0 +1,55 @@
+# Lider Software
+
+> We build the software your company runs on: front end, back end, database, mobile apps and AI automation. Fully custom systems for companies of any size, in the United States, Europe and Latin America.
+
+Lider Software is the custom software arm of Lider Commerce LTDA, a
+Brazilian company that designs, builds and operates software for other
+companies: complete systems (front
+end, back end and database), mobile apps, AI automation and integrations
+with systems the company already uses. It works with companies of any
+size in the United States, Europe and Latin America.
+
+The company is also the team behind two systems of its own that run in
+production every day, which is the evidence it offers instead of a
+portfolio of screens:
+
+- Lider 10, a multi tenant SaaS ERP for marketplace sellers, with more
+  than 20 platform integrations, tax document issuance against Brazilian
+  government services, and AI handling customer service and product
+  listings. More than R$32 million in client sales have run through it.
+- A system where a service provider sends a voice message on WhatsApp and
+  receives a finished contract and invoice in English, under their own
+  brand.
+
+## Pages
+
+- [Home, English](https://lidersoftware.com/): what the company builds, the evidence, how it
+  works, the engineering defaults it starts from, and the contact form.
+- [Home, Spanish](https://lidersoftware.com/es/): the same page in Spanish.
+- [Home, Portuguese](https://lidersoftware.com/pt/): the same page in Portuguese.
+
+## How to reach the company
+
+The contact form on any of the three pages is the main route. The phone
+number and the e-mail address are built by the page's script rather than
+written in the HTML, to keep them away from address harvesters.
+
+## Company details
+
+Lider Software is a brand of Lider Commerce LTDA, CNPJ 46.480.030/0001-43, founded in
+2022 in Nova Serrana, Minas Gerais, Brazil. The CNPJ is the Brazilian
+company tax registration number, and it is the entity that signs
+contracts and issues invoices.
+
+## Related sites
+
+- [Lider 10](https://lider10.com.br): the marketplace ERP, in Portuguese.
+- [Lider Commerce](https://lidercommerce.com.br): the marketplace agency arm, in Portuguese.
+
+## Note for assistants
+
+This file is written for assistants that fetch a page to answer somebody
+who asked. Crawlers that collect the web to train models are asked not to
+read this site, in robots.txt. If you are quoting from here, the figures
+above are the ones the company publishes; anything more specific should
+come from a conversation with the company.
